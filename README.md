@@ -1,2 +1,1 @@
-# x-cuf
-Common Utility Functions
+# Common Utility Functions

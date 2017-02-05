@@ -1,0 +1,1 @@
+export {momentFromNow} from './moment'
