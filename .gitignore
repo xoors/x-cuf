@@ -1,3 +1,8 @@
+# Commons
+node_modules
+dist
+*.tgz
+
 # Logs
 logs
 *.log
