@@ -11,7 +11,7 @@
     "build": "npm run build:babel",
     "build:babel": "babel ./src --ignore *.test.js --out-dir ./dist",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pack": "cp -R ./dist/* /Users/ra/Workspace/projects/actas/node_modules/x-cuf"
+    "pack": "cp -R ./dist/* /Users/ra/Workspace/projects/x-uic/node_modules/x-cuf && cp -R ./dist/* /Users/ra/Workspace/projects/actas/node_modules/x-cuf"
   },
   "repository": {
     "type": "git",
