@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xoors/x-cuf.git"
+    "url": "git@github.com:xoors/x-cuf.git"
   },
   "author": "ra@xoors.com",
   "license": "MIT",
