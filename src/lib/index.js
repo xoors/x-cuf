@@ -1,2 +1,3 @@
-export {jsObjToCSS} from '../ui/jsObjToCSS'
+export {jonToCSS} from '../ui/jsonToCSS'
+export {svgToCSS} from '../ui/svgToCSS'
 export {setDocStyle} from '../ui/setDocStyle'
